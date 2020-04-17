@@ -2,8 +2,8 @@
 //var x = document.getElementsByClassName("example");
 
 var i = 0;
-var wait_time = [1,5,8,7]; //*1
-var last_time = 10; // сек
+var wait_time = [1,5,8,7,7]; //*1
+var last_time = 8; // сек
 var msgs = document.getElementsByClassName("msg-wrap");
 var udata = document.getElementById("user-data");
 
